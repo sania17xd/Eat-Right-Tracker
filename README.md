@@ -1,4 +1,4 @@
-# Food-Calorie-Estimation  with Integrated Generative AI
+# Eat Right Tracker (Food-Calorie-Estimation  with Integrated Generative AI)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -71,9 +71,9 @@ Nutrition Information Source: [Food Data Central API](https://fdc.nal.usda.gov/a
 
 
 ## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/nikhil-chakravarthy-064504203/) 
+SANIA
+[![Linkedin](https://www.linkedin.com/in/sania-546208284/)]
 
-Nikhil Chakravarthy - [Portfolio](https://nikhilchakravarthy.netlify.app)
 
 
 ## References
